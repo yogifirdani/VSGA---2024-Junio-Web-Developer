@@ -1,0 +1,10 @@
+1. Tools yg akan digunakan
+   - editor : VScode, Git
+   - server : XAMPP, MAMP
+2. Merancang dan membuat user interface (HTML/CSS)
+3. insert PHP
+    - pemesanan
+    - bukti pemesanan
+    -list pesanan 
+    -Tentang kami (read file txt)
+    - CRUD ()
